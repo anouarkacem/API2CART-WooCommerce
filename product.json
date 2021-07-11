@@ -1,0 +1,350 @@
+{
+    "id": "94127",
+    "type": "configurable",
+    "u_model": "ALD102084-1-1",
+    "u_sku": "ALD102084-1-1",
+    "name": "[:ar]تونيك طويل من الخلف نسائي (A2CTEST)[:en]تونيك طويل من الخلف نسائي (نسخة)[:] (نسخة)",
+    "description": "[:ar]A2CTEST[:]",
+    "short_description": "",
+    "price": 450.882286,
+    "advanced_price": [],
+    "cost_price": null,
+    "quantity": 345,
+    "inventory": [],
+    "u_brand_id": null,
+    "u_brand": null,
+    "categories_ids": [
+        2048
+    ],
+    "stores_ids": [
+        "1"
+    ],
+    "url": "https://dev.amalstyle.com/shop/%d8%a7%d9%83%d8%b3%d8%b3%d9%88%d8%b1%d8%a7%d8%a7%d8%aa/",
+    "seo_url": "https://dev.amalstyle.com/shop/%d8%a7%d9%83%d8%b3%d8%b3%d9%88%d8%b1%d8%a7%d8%a7%d8%aa/",
+    "meta_title": "",
+    "meta_keywords": "",
+    "meta_description": "",
+    "avail_sale": false,
+    "avail_view": false,
+    "is_virtual": false,
+    "is_downloadable": false,
+    "weight": 0.3,
+    "weight_unit": "kg",
+    "sort_order": 0,
+    "backorders": "Do not allow",
+    "manage_stock": "yes",
+    "is_stock_managed": true,
+    "create_at": {
+        "value": "2021-07-11T14:23:11+0000",
+        "format": "Y-m-d\\TH:i:sO"
+    },
+    "modified_at": {
+        "value": "2021-07-11T14:23:12+0000",
+        "format": "Y-m-d\\TH:i:sO"
+    },
+    "tax_class_id": "1",
+    "special_price": {
+        "value": 0,
+        "avail": false,
+        "created_at": null,
+        "modified_at": null,
+        "expired_at": null
+    },
+    "tier_price": [],
+    "group_price": [],
+    "images": [],
+    "product_options": [
+        {
+            "id": "pa_%d9%84%d9%88%d9%86",
+            "product_option_id": "pa_%d9%84%d9%88%d9%86",
+            "name": "pa_لون",
+            "description": "",
+            "sort_order": 0,
+            "type": "select",
+            "required": true,
+            "available": true,
+            "used_in_combination": true,
+            "option_items": [
+                {
+                    "id": "%d8%a8%d9%8a%d8%ac-8",
+                    "product_option_item_id": "%d8%a8%d9%8a%d8%ac-8",
+                    "name": "بيج",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                }
+            ]
+        },
+        {
+            "id": "pa_%d9%85%d9%82%d8%a7%d8%b3",
+            "product_option_id": "pa_%d9%85%d9%82%d8%a7%d8%b3",
+            "name": "pa_مقاس",
+            "description": "",
+            "sort_order": 1,
+            "type": "select",
+            "required": true,
+            "available": true,
+            "used_in_combination": true,
+            "option_items": [
+                {
+                    "id": "44-4",
+                    "product_option_item_id": "44-4",
+                    "name": "44",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                },
+                {
+                    "id": "42-4",
+                    "product_option_item_id": "42-4",
+                    "name": "42",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                },
+                {
+                    "id": "40-4",
+                    "product_option_item_id": "40-4",
+                    "name": "40",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                },
+                {
+                    "id": "38-4",
+                    "product_option_item_id": "38-4",
+                    "name": "38",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                },
+                {
+                    "id": "36-4",
+                    "product_option_item_id": "36-4",
+                    "name": "36",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                }
+            ]
+        },
+        {
+            "id": "%d9%85%d9%83%d9%88%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d9%85%d8%a7%d8%b4",
+            "product_option_id": "%d9%85%d9%83%d9%88%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d9%85%d8%a7%d8%b4",
+            "name": "مكونات القماش",
+            "description": "",
+            "sort_order": 2,
+            "type": "select",
+            "required": false,
+            "available": true,
+            "used_in_combination": true,
+            "option_items": [
+                {
+                    "id": "بوليست، 67% مشدود",
+                    "product_option_item_id": "بوليست، 67% مشدود",
+                    "name": "بوليست، 67% مشدود",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                }
+            ]
+        },
+        {
+            "id": "%d9%82%d8%a7%d9%84%d8%a8",
+            "product_option_id": "%d9%82%d8%a7%d9%84%d8%a8",
+            "name": "قالب",
+            "description": "",
+            "sort_order": 3,
+            "type": "select",
+            "required": false,
+            "available": true,
+            "used_in_combination": true,
+            "option_items": [
+                {
+                    "id": "فت مريح",
+                    "product_option_item_id": "فت مريح",
+                    "name": "فت مريح",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                }
+            ]
+        },
+        {
+            "id": "%d9%8a%d8%a7%d9%82%d8%a9",
+            "product_option_id": "%d9%8a%d8%a7%d9%82%d8%a9",
+            "name": "ياقة",
+            "description": "",
+            "sort_order": 4,
+            "type": "select",
+            "required": false,
+            "available": true,
+            "used_in_combination": true,
+            "option_items": [
+                {
+                    "id": "رقبة دائرية",
+                    "product_option_item_id": "رقبة دائرية",
+                    "name": "رقبة دائرية",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                }
+            ]
+        },
+        {
+            "id": "%d9%85%d8%af%d9%8a-%d8%a7%d9%84%d8%b7%d9%88%d9%84",
+            "product_option_id": "%d9%85%d8%af%d9%8a-%d8%a7%d9%84%d8%b7%d9%88%d9%84",
+            "name": "مدي الطول",
+            "description": "",
+            "sort_order": 5,
+            "type": "select",
+            "required": false,
+            "available": true,
+            "used_in_combination": true,
+            "option_items": [
+                {
+                    "id": "110-100",
+                    "product_option_item_id": "110-100",
+                    "name": "110-100",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                }
+            ]
+        },
+        {
+            "id": "%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%af%d9%8a%d9%84",
+            "product_option_id": "%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%af%d9%8a%d9%84",
+            "name": "تفاصيل الموديل",
+            "description": "",
+            "sort_order": 6,
+            "type": "select",
+            "required": false,
+            "available": true,
+            "used_in_combination": true,
+            "option_items": [
+                {
+                    "id": "بسحاب",
+                    "product_option_item_id": "بسحاب",
+                    "name": "بسحاب",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                }
+            ]
+        },
+        {
+            "id": "stil",
+            "product_option_id": "stil",
+            "name": "STİL",
+            "description": "",
+            "sort_order": 7,
+            "type": "select",
+            "required": false,
+            "available": true,
+            "used_in_combination": true,
+            "option_items": [
+                {
+                    "id": "يومي",
+                    "product_option_item_id": "يومي",
+                    "name": "يومي",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                }
+            ]
+        },
+        {
+            "id": "%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85",
+            "product_option_id": "%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85",
+            "name": "الموسم",
+            "description": "",
+            "sort_order": 8,
+            "type": "select",
+            "required": false,
+            "available": true,
+            "used_in_combination": true,
+            "option_items": [
+                {
+                    "id": "صيفي",
+                    "product_option_item_id": "صيفي",
+                    "name": "صيفي",
+                    "sort_order": 0,
+                    "price": 0,
+                    "weight": 0,
+                    "quantity": null,
+                    "type_price": "value",
+                    "sku": null
+                }
+            ]
+        }
+    ],
+    "u_upc": null,
+    "u_mpn": null,
+    "related_products_ids": [],
+    "dimensions_unit": "cm",
+    "width": null,
+    "height": null,
+    "length": null,
+    "additional_fields": {
+        "viewed_count": 0,
+        "ordered_count": 0,
+        "tax_class": {
+            "tax_class_id": "1",
+            "name": "Standard",
+            "created_at": null,
+            "modified_at": null,
+            "value": 0,
+            "value_type": 1,
+            "avail": true,
+            "tax_rates": []
+        },
+        "stock_status": "In stock",
+        "custom_total_sales": "0",
+        "custom_product_image_on_hover": "yes",
+        "custom_dfifeatured": "a:1:{i:0;s:0:\"\";}",
+        "custom_dropshipping": "knawat",
+        "custom_custom_tab_priority1": "40",
+        "custom_custom_tab_priority2": "41",
+        "custom_header_view": "default",
+        "custom_layout": "right-sidebar",
+        "tags": "",
+        "status": "draft"
+    }
+}
